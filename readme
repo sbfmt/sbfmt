@@ -1,0 +1,8 @@
+SBFMT
+=====
+
+For the official RFC, refer to:
+https://sbfmt.org/RFC/
+
+Developers may create a local `todo.local.md` file for personal notes or tracking.
+This file is already excluded via `.gitignore`.
